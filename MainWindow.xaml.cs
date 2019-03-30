@@ -1,4 +1,8 @@
-﻿using System;
+/*Name : Riley de Gans
+* Date: March 29th, 2019
+* Description: A program that determines the winner of a game
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
